@@ -31,7 +31,7 @@ Dedicated Backend Developer with strong foundational knowledge in Python, SQL, a
 
 ## 🏅 Certifications
 - [Python for OOP – Udemy](https://www.udemy.com/certificate/UC-70056454-4236-42ee-a002-cfef54481e7b)
-- SQL for Beginners – Scaler Academy
+- [SQL for Beginners – Scaler Academy](https://moonshot.scaler.com/s/li/mAn9sUtqSN)
 - HTML & CSS Bootcamp – LetsUpgrade
 - JavaScript Bootcamp – LetsUpgrade
 - Python (basic) – HackerRank
