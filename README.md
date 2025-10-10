@@ -32,9 +32,11 @@ Dedicated Backend Developer with strong foundational knowledge in Python, SQL, a
 ## 🏅 Certifications
 - [Python for OOP – Udemy](https://www.udemy.com/certificate/UC-70056454-4236-42ee-a002-cfef54481e7b)
 - [SQL for Beginners – Scaler Academy](https://moonshot.scaler.com/s/li/mAn9sUtqSN)
-- HTML & CSS Bootcamp – LetsUpgrade
-- JavaScript Bootcamp – LetsUpgrade
-- Python (basic) – HackerRank
+- [HTML5 Bootcamp – LetsUpgrade](https://verify.letsupgrade.in/certificate/LUEHTML5APR124124)
+- [CSS Bootcamp](https://verify.letsupgrade.in/certificate/LUECSSAPR124141)
+- [JavaScript Bootcamp – LetsUpgrade](https://verify.letsupgrade.in/certificate/LUEJSMAR124127)
+- [Git & GitHub Bootcamp](https://verify.letsupgrade.in/certificate/LUEGGMAR125876)
+- [Python (basic) – HackerRank](https://www.hackerrank.com/certificates/d6c20d8da15d)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham)
