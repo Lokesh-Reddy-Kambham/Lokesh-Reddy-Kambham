@@ -4,7 +4,6 @@ Dedicated Backend Developer with strong foundational knowledge in Python, SQL, a
 
 ## 🚀 About Me
 - 💻 Backend Developer | Full Stack Enthusiast
-- 🐍 Python, SQL, Django, Flask, JavaScript, HTML, CSS
 - 🏆 Quick learner with excellent problem-solving and communication skills
 - 🤝 Eager to contribute to backend and full-stack development roles
 
