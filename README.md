@@ -40,6 +40,7 @@ Dedicated Backend Developer with strong foundational knowledge in Python, SQL, a
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham)
+[![SoloLearn](https://img.shields.io/badge/Sololearn-orange?logo)](https://www.sololearn.com/en/profile/30363693)
 
 ## 🎯 Fun Facts
 - ♟️ Playing Chess
