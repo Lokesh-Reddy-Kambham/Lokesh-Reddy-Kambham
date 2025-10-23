@@ -55,10 +55,11 @@ Each project is designed to be:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-3A6CF6?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/en/profile/30363693)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Lokesh-Reddy-Kambham/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-Profile-Blue?logo=sololearn)](https://www.sololearn.com/en/profile/30363693)
 
 ---
 
