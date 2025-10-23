@@ -39,8 +39,30 @@ Dedicated Backend Developer with strong foundational knowledge in Python, SQL, a
 - [Python (basic) – HackerRank](https://www.hackerrank.com/certificates/d6c20d8da15d/)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham)
-[![SoloLearn](https://img.shields.io/badge/Sololearn-orange?logo)](https://www.sololearn.com/en/profile/30363693)
+
+# 👋 Hi Everyone, Welcome to My Repo — **Python Mini Projects**
+
+This repository contains a collection of **Python Mini Projects** that demonstrate practical coding skills and problem-solving techniques.
+
+Each project is designed to be:
+- 🧠 **Beginner-friendly**
+- 🧩 **Well-structured**
+- 💻 **Focused on real-world logic and concepts**
+
+💡 Perfect for anyone learning Python or exploring how to apply Python concepts through small, practical projects.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-3A6CF6?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/en/profile/30363693)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+
+---
+
+⭐ **If you like this repo, don’t forget to star it!**
 
 ## 🎯 Fun Facts
 - ♟️ Playing Chess
