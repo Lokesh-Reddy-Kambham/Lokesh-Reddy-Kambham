@@ -50,7 +50,6 @@
 <!-- 🧩 GitHub Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Reddy-Kambham&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Lokesh-Reddy-Kambham&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub streak" />
 </p>
 
 <p align="center">
