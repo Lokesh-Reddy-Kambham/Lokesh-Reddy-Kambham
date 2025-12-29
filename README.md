@@ -47,16 +47,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-Profile-Blue?logo=sololearn)](https://www.sololearn.com/en/profile/30363693)
 ---
-<!-- 🧩 GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokesh-Reddy-Kambham&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub stats" />
-</p>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lokesh-Reddy-kambham&theme=transparent" alt="GitHub Streak" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh-Reddy-Kambham&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="Top Languages" />
-</p>
+
 
 ## 🎯 Fun Facts
 - ♟️ Playing Chess
