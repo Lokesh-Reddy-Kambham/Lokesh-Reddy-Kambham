@@ -23,7 +23,7 @@
 - Integrated MySQL as backend DB; ensured smooth front-backend communication  
 - Implemented ML models and evaluated with metrics like confusion matrix
 
-### EliteCart: Smart Home Services Web App _(Full Stack Web Developer Intern)_   [![Repo](https://img.shields.io/badge/Repo-FFA500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-Reddy-Kambham/Elite-Cart)[![Link](https://img.shields.io/badge/Link-1E90FF?style=for-the-badge)](https://github.com/Lokesh-Reddy-Kambham/Elite-Cart)
+### EliteCart: Smart Home Services Web App _(Full Stack Web Developer Intern)_  [![Repo Link](https://img.shields.io/badge/Repo_Link-blue?style=plastic&logo=github&logoColor=white)](https://github.com/Lokesh-Reddy-Kambham/Elite-Cart)
 
 **Tech Stack:** HTML, CSS, JavaScript, Python, MySQL  
 - Built a responsive web app "EliteCart" to manage smart home services  
