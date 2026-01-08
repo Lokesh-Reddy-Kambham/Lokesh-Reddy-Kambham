@@ -86,7 +86,14 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ## 📊 GitHub Activity
 
-<a href="http://www.github.com/Lokesh-Reddy-Kambham"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/Lokesh-Reddy-Kambham">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+    />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Lokesh-Reddy-Kambham?label=Followers&logo=github&style=for-the-badge" />
@@ -95,23 +102,15 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 ---
 
 ## 🌐 Connect With Me
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/Lokesh-Reddy-Kambham">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lokesh-reddy-kambham/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/Lokesh_Reddy_">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  <a href="https://leetcode.com/u/Lokesh-Reddy-Kambham/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-Reddy-Kambham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+
 </p>
+
 
 ---
 ## ☕ Support Me
