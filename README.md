@@ -61,7 +61,8 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 ### 🏠 EliteCart – Smart Home Services Web App  
 **Role:** Full Stack Web Developer Intern  
 
-[![Repo](https://img.shields.io/badge/Repository-GitHub-blue?logo=github)](https://github.com/Lokesh-Reddy-Kambham/Elite-Cart)
+[![Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Lokesh-Reddy-Kambham/Elite-Cart) &nbsp;&nbsp;
+[![View Demo](https://img.shields.io/badge/Live_Demo-Elite_Card-green?style=for-the-badge&logo=githubpages)](https://elitecart-frontend.vercel.app)
 
 **Tech Stack:** HTML, CSS, JavaScript, Python, MySQL  
 
