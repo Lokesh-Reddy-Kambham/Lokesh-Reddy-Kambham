@@ -1,7 +1,7 @@
 <!-- ================= PROFILE HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Lokesh Reddy Kambham</h1>
 <h3 align="center">
-Backend Developer • Full Stack Enthusiast • Data & Problem Solving Learner
+Python Backend Developer • Full Stack Developer • Web Developer 
 </h3>
 
 <p align="center">
@@ -92,6 +92,11 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
     />
+  </a>
+  <a>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-Reddy-Kambham&theme=github-dark&hide_border=true"
+      />
   </a>
 </p>
 
