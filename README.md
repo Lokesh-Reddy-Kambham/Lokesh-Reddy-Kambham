@@ -10,12 +10,24 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
-## 🚀 About Me
+## � Table of Contents
+- [🚀 About Me](#-about-me)
+- [🛠️ Technical Skills](#️-technical-skills)
+- [📚 Projects](#-projects)
+- [🏅 Certifications](#-certifications)
+- [📊 GitHub Activity](#-github-activity)
+- [🌐 Connect With Me](#-connect-with-me)
+- [☕ Support Me](#-support-me)
+
+---
+
+## �🚀 About Me
 
 - 💻 Backend Developer with hands-on Full Stack experience  
 - 🧠 Strong interest in Data, Problem Solving, and System Design  
 - ⚡ Quick learner with solid fundamentals in Python & SQL  
 - 🤝 Actively seeking Backend / Full Stack Developer opportunities  
+- 🌟 Passionate about building efficient, scalable applications and contributing to open-source projects
 
 ---
 
