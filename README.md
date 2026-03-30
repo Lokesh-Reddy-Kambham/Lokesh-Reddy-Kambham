@@ -10,7 +10,7 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
-## �🚀 About Me
+## 🚀 About Me
 
 - 💻 Backend Developer with hands-on Full Stack experience  
 - 🧠 Strong interest in Data, Problem Solving, and System Design  
