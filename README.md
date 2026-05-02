@@ -10,7 +10,7 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
-## �🚀 About Me
+## 🚀 About Me
 
 - 💻 Backend Developer with hands-on Full Stack experience  
 - 🧠 Strong interest in Data, Problem Solving, and System Design  
@@ -74,36 +74,6 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
-### 🎨 Portfolio Website  
-**Role:** Full Stack Developer  
-
-[![Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Lokesh-Reddy-Kambham/portfolio) &nbsp;&nbsp;
-[![View Demo](https://img.shields.io/badge/Live_Demo-Portfolio-green?style=for-the-badge&logo=vercel)](https://lokesh-reddy-portfolio.vercel.app)
-
-**Tech Stack:** HTML, CSS, JavaScript, React  
-
-- Showcasing my professional work, projects, and experience  
-- Responsive design optimized for all devices  
-- Clean and modern UI with smooth navigation  
-- Demonstrates full-stack web development capabilities  
-
----
-
-## 🎯 Portfolio
-
-Explore my portfolio to see more about my work and experience:
-
-<p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-Reddy-Kambham)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
-
-</p>
-
----
-
 ## 🏅 Certifications
 
 - Python for OOP – Udemy  
@@ -121,7 +91,7 @@ Explore my portfolio to see more about my work and experience:
 <p align="center">
   <a href="https://github.com/Lokesh-Reddy-Kambham">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums[...]
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
     />
   </a>
   <a>
@@ -160,4 +130,4 @@ Explore my portfolio to see more about my work and experience:
 
 ---
 
-> "Learning by doing is the fastest way to grow as a developer."
+> “Learning by doing is the fastest way to grow as a developer.”
