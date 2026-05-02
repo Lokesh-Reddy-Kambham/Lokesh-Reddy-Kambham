@@ -74,6 +74,17 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
+## 🎯 Portfolio
+
+Explore my portfolio to see more about my work and experience:
+
+- **GitHub:** [github.com/Lokesh-Reddy-Kambham](https://github.com/Lokesh-Reddy-Kambham)
+- **LinkedIn:** [Lokesh Reddy Kambham](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+- **HackerRank:** [Lokesh_Reddy_](https://www.hackerrank.com/profile/Lokesh_Reddy_)
+- **LeetCode:** [Lokesh-Reddy-Kambham](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+
+---
+
 ## 🏅 Certifications
 
 - Python for OOP – Udemy  
@@ -91,7 +102,7 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 <p align="center">
   <a href="https://github.com/Lokesh-Reddy-Kambham">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=[...]
     />
   </a>
   <a>
@@ -130,4 +141,4 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
-> “Learning by doing is the fastest way to grow as a developer.”
+> "Learning by doing is the fastest way to grow as a developer."
