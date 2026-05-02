@@ -74,6 +74,21 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 ---
 
+### 🎨 Portfolio Website  
+**Role:** Full Stack Developer  
+
+[![Repo](https://img.shields.io/badge/Repository-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Lokesh-Reddy-Kambham/portfolio) &nbsp;&nbsp;
+[![View Demo](https://img.shields.io/badge/Live_Demo-Portfolio-green?style=for-the-badge&logo=vercel)](https://lokesh-reddy-portfolio.vercel.app)
+
+**Tech Stack:** HTML, CSS, JavaScript, React  
+
+- Showcasing my professional work, projects, and experience  
+- Responsive design optimized for all devices  
+- Clean and modern UI with smooth navigation  
+- Demonstrates full-stack web development capabilities  
+
+---
+
 ## 🎯 Portfolio
 
 Explore my portfolio to see more about my work and experience:
@@ -106,7 +121,7 @@ Explore my portfolio to see more about my work and experience:
 <p align="center">
   <a href="https://github.com/Lokesh-Reddy-Kambham">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=[...]
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums[...]
     />
   </a>
   <a>
