@@ -78,10 +78,14 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 Explore my portfolio to see more about my work and experience:
 
-- **GitHub:** [github.com/Lokesh-Reddy-Kambham](https://github.com/Lokesh-Reddy-Kambham)
-- **LinkedIn:** [Lokesh Reddy Kambham](https://www.linkedin.com/in/lokesh-reddy-kambham/)
-- **HackerRank:** [Lokesh_Reddy_](https://www.hackerrank.com/profile/Lokesh_Reddy_)
-- **LeetCode:** [Lokesh-Reddy-Kambham](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh-Reddy-Kambham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+
+</p>
 
 ---
 
