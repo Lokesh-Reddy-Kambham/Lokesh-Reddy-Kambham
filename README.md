@@ -29,7 +29,7 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 <!-- Backend -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,mysql,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,fastapi&perline=8" />
 </p>
 
 <!-- Tools & Others -->
@@ -39,7 +39,7 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 
 
 **Languages:** Python, SQL, JavaScript  
-**Frameworks & Libraries:** Django, Flask, NumPy, Pandas  
+**Frameworks & Libraries:** Django, NumPy, Pandas  
 **Databases:** MySQL  
 **Tools:** Git, GitHub, VS Code, PyCharm, Jupyter  
 **Soft Skills:** Problem Solving, Communication, Adaptability  
