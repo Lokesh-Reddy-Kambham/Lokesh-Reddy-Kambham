@@ -89,11 +89,6 @@ I build scalable backend systems, integrate databases, and enjoy solving real-wo
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Lokesh-Reddy-Kambham">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh-Reddy-Kambham&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
-    />
-  </a>
   <a>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh-Reddy-Kambham&theme=github-dark&hide_border=true"
